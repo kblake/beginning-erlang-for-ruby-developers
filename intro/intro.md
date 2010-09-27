@@ -22,10 +22,9 @@
 
 !SLIDE incremental bullets
 
-## This talk is... ##
+## Stuff we'll cover: ##
 
-* What's new
-* What's different
-* What's painful
-* What's awesome!
+* Something
+* here
+* cool
 
