@@ -5,7 +5,7 @@
 
 !SLIDE
 
-## For anyone new, I'm Karmen ##
+## I'm Karmen ##
 
 !SLIDE
 
