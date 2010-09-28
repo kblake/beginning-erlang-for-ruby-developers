@@ -1,30 +1,19 @@
 !SLIDE
 
-# Beginning Erlang for Ruby Developers #
-## A Brief Introduction ##
+# Beginning Erlang for Ruby Developers
 
 !SLIDE
 
-## I'm Karmen ##
+## Karmen Blake
 
 !SLIDE
 
-## @kblake ##
+## @kblake
 
 !SLIDE
 
-## http://github.com/kblake ##
+## http://github.com/kblake
 
-!SLIDE center
+!SLIDE
 
-
-## http://blog.dudeblake.com/ ##
-
-!SLIDE incremental bullets
-
-## Stuff we'll cover: ##
-
-* Something
-* here
-* cool
-
+## http://blog.dudeblake.com/
