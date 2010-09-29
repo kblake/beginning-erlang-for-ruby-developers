@@ -1,11 +1,11 @@
-!SLIDE incremental bullets
+!SLIDE incremental bullets center
 
 # Erlang Beginnings
 
 * Created by Joe Armstrong
 * ![real joe](joeold.jpg)
 
-!SLIDE bullets
+!SLIDE bullets center
 
 # Erlang Beginnings
 
