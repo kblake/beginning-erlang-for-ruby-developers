@@ -29,7 +29,7 @@
 * Lately I've been playing around with Erlang
 
 
-!SLIDE incremental bullets smaller
+!SLIDE incremental bullets smaller center
 
 #Why are you here?
 
