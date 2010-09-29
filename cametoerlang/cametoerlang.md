@@ -3,9 +3,9 @@
 # How I was introduced to Erlang
 
 * Heard about ["Programming Erlang"](http://www.pragprog.com/titles/jaerlang/programming-erlang)
+* [Facebook used Erlang for chat](http://www.facebook.com/note.php?note_id=14218138919)
 * A year later I actually bought the book
 * Walked through half of it and tried a couple erlang web frameworks
-* Then lost interest
 
 !SLIDE incremental bullets
 
