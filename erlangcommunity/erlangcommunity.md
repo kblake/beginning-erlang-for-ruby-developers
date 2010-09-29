@@ -29,7 +29,15 @@
 
 # Erlang for Web Development
 
-* [![nitrogen](nitrogen.jpg)](http://http://nitrogenproject.com/)
+* [![nitrogen](nitrogen.jpg)](http://nitrogenproject.com/)
+
+
+!SLIDE center
+
+# CouchDB
+
+* [![couchdb](couchdb.jpg)](http://couchdb.apache.org/)
+
 
 !SLIDE bullets incremental
 
