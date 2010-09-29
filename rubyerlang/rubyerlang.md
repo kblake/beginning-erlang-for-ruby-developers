@@ -220,14 +220,18 @@ Huh?
 !SLIDE
 
 ![functions pattern matching](functions-pattern-matching.jpg)
+<br /><br /><br /><br />
 
 !SLIDE
 
 ![functions pattern matching](circle-match.jpg)
+<br /><br /><br /><br />
+
 
 !SLIDE
 
 ![functions pattern matching](triangle-match.jpg)
+<br /><br /><br /><br />
 
 
 !SLIDE
