@@ -2,19 +2,18 @@
 
 # Talk Outline
 
-* Strive to learn from and appreciate other languages
+* What is Erlang?
+* Why Erlang?
 * Learn basic Erlang syntax through Ruby
-* Erlang reference material for install, syntax, and examples
-* Erlang community and case studies
 * Erlang libraries and web frameworks
+* References
 
 !SLIDE incremental bullets
 
 # Goals
 
-* Not about which is language is better
-* Learn from others
-* Apply more functional principles into Ruby
+* No language wars here!
+* Apply functional principles to Ruby
 * Passionate about languages
 * Keep options open
 * Great developer > great Ruby developer

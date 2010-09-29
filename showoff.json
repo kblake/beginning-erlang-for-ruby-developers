@@ -1,5 +1,8 @@
-[
+{"name":"Beginning Erlang for Ruby Developers", "sections":[
   {"section": "intro"},
 	{"section": "outline"},
-	{"section": "cametoerlang"}
-]
+	{"section": "cametoerlang"},
+	{"section": "functional"},
+	{"section": "whatiserlang"},
+	{"section": "rubyerlang"}
+]}
