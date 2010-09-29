@@ -1,4 +1,4 @@
-!SLIDE center smaller
+!SLIDE smaller
 
 #THANK YOU!
 
