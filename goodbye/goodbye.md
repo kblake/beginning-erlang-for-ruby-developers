@@ -1,9 +1,9 @@
-!SLIDE smaller
+!SLIDE center bigger
 
 #THANK YOU!
 
 
-!SLIDE bullets 
+!SLIDE bullets smaller
 
 * Karmen Blake | [@kblake](http://twitter.com/kblake) | [blog.dudeblake.com](http://blog.dudeblake.com)
 * [http://beg-erlang-for-ruby-devs.heroku.com/](http://beg-erlang-for-ruby-devs.heroku.com/)
