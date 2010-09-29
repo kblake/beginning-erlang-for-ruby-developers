@@ -3,15 +3,15 @@
 # How I was introduced to Erlang
 
 * Heard about ["Programming Erlang"](http://www.pragprog.com/titles/jaerlang/programming-erlang)
-* [Facebook used Erlang for chat](http://www.facebook.com/note.php?note_id=14218138919)
-* A year later I actually bought the book
-* Walked through half of it and tried a couple erlang web frameworks
+* Walked through half of the book and tried a couple erlang web frameworks
+* [Facebook uses Erlang for chat](http://www.facebook.com/note.php?note_id=14218138919)
+* [Facebook presentation on using Erlang](http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf)
 
 !SLIDE incremental bullets
 
 # Why now?
 
-* Recently stumbled across erlang articles: 
+* Recently read entertaining Chicago Boss (Erlang Web Frameword) articles: 
 * [http://www.evanmiller.org/chicago-boss-secret.html](http://www.evanmiller.org/chicago-boss-secret.html)
 * [http://www.evanmiller.org/chicago-boss-guide.html](http://www.evanmiller.org/chicago-boss-guide.html)
 * Re-energized me to take another look

@@ -12,6 +12,7 @@
 
 # Functional programming
 
-* Academic until recent
+* Labeled as academic
+* However, used in production apps (LISP)
 * Scheme, Haskell, Ocaml
-* JVM: Scala, Closure
+* JVM: Scala, Clojure
