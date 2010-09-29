@@ -217,15 +217,15 @@ Huh?
 * no conditionals
 * pattern match arguments
 
-!SLIDE full-page
+!SLIDE
 
 ![functions pattern matching](functions-pattern-matching.jpg)
 
-!SLIDE full-page
+!SLIDE
 
 ![functions pattern matching](circle-match.jpg)
 
-!SLIDE full-page
+!SLIDE
 
 ![functions pattern matching](triangle-match.jpg)
 
