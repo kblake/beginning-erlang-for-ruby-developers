@@ -282,7 +282,7 @@ Huh?
 <br /><br />
 
 	@@@ruby
-	Numbers = [1,2,3,4,5]
+	Numbers = [1,2,3,4,5].
 
 	%Built-in Function (BIF)
 	lists:map(fun(Number) -> Number * 2 end, Numbers).
