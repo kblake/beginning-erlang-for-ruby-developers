@@ -2,6 +2,16 @@
 
 # Beginning Erlang for Ruby Developers
 
+
+!SLIDE bullets
+
+#Presented at:
+
+* [Ruby Meetup](http://www.meetup.com/rubymeetup/calendar/14908915/)
+* [Ruby Meetup on Facebook](http://rubymeetup.com)
+* [@rubymeetup](http://twitter.com/rubymeetup)
+
+
 !SLIDE bullets center
 
 ## Karmen Blake
